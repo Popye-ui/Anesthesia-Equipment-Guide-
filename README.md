@@ -3,8 +3,8 @@
 A web application that helps anesthesia students and technicians learn about operating room equipment (Anesthesia Machine, Ventilator, Laryngoscope, Patient Monitor, Vaporizer, Suction Unit).
 
 ## Project Info
-- Course: [course name]
-- Instructor: [teacher name]
+- Course: Agile Software Management
+- Instructor: Sir Khateeb
 - Methodology: SCRUM (Iteration 01 / Sprint 01)
 
 ## Modules
@@ -13,9 +13,9 @@ A web application that helps anesthesia students and technicians learn about ope
 - Admin: login, manage categories
 
 ## Tech Stack
-- Frontend: [e.g. React]
-- Backend: [e.g. Node.js + Express]
-- Database: [e.g. MySQL]
+- Frontend: To be decided
+- Backend: To be decided
+- Database: To be decided
 
 ## Team
 | No. | Name | Roll No. | Role |
@@ -27,8 +27,8 @@ A web application that helps anesthesia students and technicians learn about ope
 | 5 | Bisma Tahir | 41636 | Backend / Database Developer |
 
 ## Links
-- Trello board: [paste Trello link]
-- Figma prototype: [paste Figma link]
+- Trello board: https://trello.com/b/gRhSxHx6/anesthesia-equipment-guide
+- Figma prototype: https://www.figma.com/design/8RQvKe90l9VtUtGUFzPk2r/Untitled?node-id=0-1&t=Xza4RhtpGHRjBnYD-1
 
 ## Folder Structure
 - `frontend/` : user interface code
